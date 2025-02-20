@@ -5,8 +5,8 @@
 
 Site|Name|Link|
 ---|---| ---| 
-<img src="https://img.shields.io/badge/Notion-20232a.svg?style=for-the-badge&logo=notion&logoColor=#000000" />  |Unreal PortPolio| https://thoughtful-shop-228.notion.site/Unreal-12f894b38b10807ab856cce6331820f5?pvs=4      
-<img src="https://img.shields.io/badge/Notion-20232a.svg?style=for-the-badge&logo=notion&logoColor=#000000" />  |DirectX PortPolio| https://thoughtful-shop-228.notion.site/DirectX2D-a534dbb0046f473f9b741c26eb928010?pvs=4
+<img src="https://img.shields.io/badge/Notion-20232a.svg?style=for-the-badge&logo=notion&logoColor=#000000" />  |Unreal PortFolio| https://thoughtful-shop-228.notion.site/Unreal-12f894b38b10807ab856cce6331820f5?pvs=4      
+<img src="https://img.shields.io/badge/Notion-20232a.svg?style=for-the-badge&logo=notion&logoColor=#000000" />  |DirectX PortFolio| https://thoughtful-shop-228.notion.site/DirectX2D-a534dbb0046f473f9b741c26eb928010?pvs=4
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=IlLa00&show_icons=true&theme=radical" />
