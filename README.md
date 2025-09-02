@@ -6,8 +6,9 @@
 Site|Name|Link|
 ---|---| ---| 
 <img src="https://img.shields.io/badge/Notion-20232a.svg?style=for-the-badge&logo=notion&logoColor=#000000" />  |Unreal PortFolio| https://thoughtful-shop-228.notion.site/Unreal-12f894b38b10807ab856cce6331820f5?pvs=4      
-<img src="https://img.shields.io/badge/Notion-20232a.svg?style=for-the-badge&logo=notion&logoColor=#000000" />  |DirectX PortFolio| https://thoughtful-shop-228.notion.site/DirectX2D-a534dbb0046f473f9b741c26eb928010?pvs=4     
-<img src="https://img.shields.io/badge/Notion-20232a.svg?style=for-the-badge&logo=notion&logoColor=#000000" />  |GameJam PortFolio| https://www.notion.so/214894b38b1080d98594f46164d4c9d5?source=copy_link
+<img src="https://img.shields.io/badge/Notion-20232a.svg?style=for-the-badge&logo=notion&logoColor=#000000" />  |DirectX PortFolio| https://thoughtful-shop-228.notion.site/DirectX2D-a534dbb0046f473f9b741c26eb928010?pvs=4    
+<img src="https://img.shields.io/badge/Notion-20232a.svg?style=for-the-badge&logo=notion&logoColor=#000000" />  |GameJam PortFolio| https://www.notion.so/214894b38b1080d98594f46164d4c9d5?source=copy_link       
+<img src="https://img.shields.io/badge/Notion-20232a.svg?style=for-the-badge&logo=notion&logoColor=#000000" />  |SANNABI PortFolio| https://www.notion.so/Project-SANABI-234894b38b1080baa682d16e91d4a5b1?source=copy_link
 
 <img src="https://github-readme-stats.vercel.app/api?username=IlLa00&show_icons=true&theme=radical" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlLa00&layout=compact" />
