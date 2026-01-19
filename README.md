@@ -1,32 +1,17 @@
-## Welcome to HyunJun's GitHub ! 👋
+# Welcome to HyunJun's GitHub! 👋
 
-✨ Tech Stack ✨ <br>
-  <img src="https://img.shields.io/badge/Unreal-20232a.svg?style=for-the-badge&logo=Unreal Engine&logoColor=#0E1128" /> <img src="https://img.shields.io/badge/Blueprint-20232a.svg?style=for-the-badge&logo=blueprint&logoColor=#137CBD" /> <img src="https://img.shields.io/badge/C++-20232a.svg?style=for-the-badge&logo=cplusplus&logoColor=#00599C" />
+## 💻 Tech Stack
+- **Game Engines:** Unreal Engine, Unity Engine
+- **Languages:** C++, C#
+- **Graphics API:** DirectX 2D, WinAPI
 
-Site|Name|Link|
----|---| ---| 
-<img src="https://img.shields.io/badge/Notion-20232a.svg?style=for-the-badge&logo=notion&logoColor=#000000" />  |Unreal PortFolio| https://thoughtful-shop-228.notion.site/Unreal-12f894b38b10807ab856cce6331820f5?pvs=4      
-<img src="https://img.shields.io/badge/Notion-20232a.svg?style=for-the-badge&logo=notion&logoColor=#000000" />  |DirectX PortFolio| https://thoughtful-shop-228.notion.site/DirectX2D-a534dbb0046f473f9b741c26eb928010?pvs=4    
-<img src="https://img.shields.io/badge/Notion-20232a.svg?style=for-the-badge&logo=notion&logoColor=#000000" />  |GameJam PortFolio| https://www.notion.so/214894b38b1080d98594f46164d4c9d5?source=copy_link       
-<img src="https://img.shields.io/badge/Notion-20232a.svg?style=for-the-badge&logo=notion&logoColor=#000000" />  |SANNABI PortFolio| https://www.notion.so/Project-SANABI-234894b38b1080baa682d16e91d4a5b1?source=copy_link
+## 📂 Portfolio Projects
 
-<img src="https://github-readme-stats.vercel.app/api?username=IlLa00&show_icons=true&theme=radical" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlLa00&layout=compact" />
-
-
-
-
-<!--
-**IiLa00/IiLa00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [**Arena LASTGATE**](https://github.com/IlLa00/Arena_LASTGATE) | 기획, 아트와 함께한 14명 규모의 팀 프로젝트 | Unreal Engine |
+| [**Unreal Engine Portfolio**](https://github.com/IlLa00/Unreal-Engine-Portfolio) | 팰월드 모작 개인 프로젝트 | Unreal Engine |
+| [**Unity Portfolio**](https://github.com/IlLa00/Unity_PortFolio) | 프로그래머 13명 규모의 팀 프로젝트| Unity Engine |
+| [**DirectX Portfolio**](https://github.com/IlLa00/DirectX-PortPolio) | 포켓몬DP 모작 개인 프로젝트 | DirectX 2D |
+| [**Project SANNABI**](https://github.com/IlLa00/Project-SANNABI) | 산나비 모작 개인 프로젝트 | WinAPI |
+| [**Inha GameJam**](https://github.com/IlLa00/Inha-GameJam) | 인하대학교 게임잼 프로젝트 | Unity Engine |
